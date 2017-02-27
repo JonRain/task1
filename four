@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style type="text/css">
+			/* CSS Document */
+			html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; } 
+			img { border:none; } 
+			img{display: block;}
+			ul, ol { list-style:none; } 
+			body { font-size:16px ;font-family:"微软雅黑","宋体","Arial Narrow"}
+			a { color:#2f2f2f; text-decoration:none; } 
+			/*------common-------*/
+			.gray{
+				width: 400px;
+				height: 200px;
+				background-color: gray;
+				overflow: hidden;
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				margin-left: -200px;
+				margin-top: -100px;
+			}
+			.wrap{
+				position: relative;
+				width: 400px;
+				height: 200px;
+			}
+			.yellow1,.yellow2{
+				width: 100px;
+				height: 100px;
+				background-color: yellow;
+				border-radius: 50%;
+				position: absolute;
+			}
+			.yellow1{
+				top: -50px;
+				left: -50px;
+			}
+			.yellow2{
+				right: -50px;
+				bottom: -50px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="gray">
+			<div class="wrap">
+				<div class="yellow1">
+				</div>
+				<div class="yellow2">
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
