@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>零基础HTML编码</title>
+	</head>
+	<body>
+		<h1>零基础HTML编码</h1>
+		<ul>
+			<li><a href="#">html</a></li>
+			<li><a href="#">css</a></li>
+			<li><a href="#">javascript</a></li>
+			<li><a href="#">jQuery</a></li>
+		</ul>
+		<div class="article">
+			<h2>html</h2>
+			<h3>自学html</h3>
+			<p>文章作者 文章发表时间</p>
+			<p>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了</br>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了</br>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://ife.baidu.com">这里有一个链接到http://ife.baidu.com</a>这是一个很长的段落，<b>这里有个粗体字</b>这是一个很长的段落，这是一个很长的段落。</p>
+			<img src="img/01.jpg" alt="路飞" />
+			<p>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了</br>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了</br>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://ife.baidu.com" target="_blank">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长的段落，<b>这里有个粗体字</b>这是一个很长的段落，这是一个很长的段落。</p>
+		</div>
+		<div class="article">
+			<h2>css</h2>
+			<h3>自学css</h3>
+			<p>文章作者 文章发表时间</p>
+			<p>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了</br>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了</br>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://ife.baidu.com">这里有一个链接到http://ife.baidu.com</a>这是一个很长的段落，<b>这里有个粗体字</b>这是一个很长的段落，这是一个很长的段落。</p>
+			<img src="img/03.jpg" alt="鸣人" />
+			<ol>
+				<li>标准文档流</li>
+				<li>浮动定位</li>
+				<li>绝对定位</li>
+			</ol>
+			<h3>图片</h3>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+			<div class="pic">
+				<p>好看的图片</p>
+				<img src="img/02.jpg" alt="大雄" />
+			</div>
+		</div>
+		<div class="article">
+			<h2>javascript</h2>
+			<h3>自学js</h3>
+			<p>文章作者 文章发表时间</p>
+			<ol>
+				<li>one</li>
+				<li>two</li>
+				<li>three</li>
+			</ol>
+			<table border="" cellspacing="" cellpadding="">
+				<tr><th>表头</th><th>表头</th><th>表头</th></tr>
+				<tr><td>表内容单元格</td><td>表内容单元格</td><td><a href="#">操作</a></td></tr>
+				<tr><td>表内容单元格</td><td>表内容单元格</td><td><a href="#">操作</a></td></tr>
+				<tr><td>表内容单元格</td><td>表内容单元格</td><td><a href="#">操作</a></td></tr>
+				<tr><td>表内容单元格</td><td>表内容单元格</td><td><a href="#">操作</a></td></tr>
+				<tr><td>总计</td><td colspan="2">1000</td></tr>
+			</table>
+		</div>
+		<div class="sidebar">
+			<h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+			<h3>侧栏注册窗口标题</h3>
+			<form action="save.php">
+				<label for="text">请输入邮箱地址：</label>
+				<input id="text" placeholder="这是一个文本输入框" />
+				<p>邮箱地址请按照要求输入</p>
+				<label for="password">请输入密码：</label>
+				<input type="password" name="" id="password" placeholder="这是一个文本输入框" />
+				<label for="repass">请重复输入密码：</label>
+				<input type="password" name="repass" id="repass" placeholder="这是一个文本输入框" />
+				<p>密码请为6-16位英文数字</p>
+				<label >性别：</label>
+				<input type="radio" id="man" checked="checked" /><label for="man">男</label>
+				<input type="radio" id="man" /><label for="woman">女</label>
+				<label for="">城市：</label>
+				<select name="city">
+					<option value="beijing" >北京</option>
+					<option value="chengdu" selected="selected">成都</option>
+					<option value="shanghai">上海</option>
+					<option value="changsha">长沙</option>
+				</select>
+				<label>爱好：</label>
+				<input type="checkbox" value="move" /><label>运动</label>
+				<input type="checkbox" name="art" id="art" value="art" /><label>艺术</label>
+				<input type="checkbox" name="" id="science" value="science"/><label >科学</label>
+				<label for="describe">个人描述：</label>
+				<textarea id="describe" rows="2" cols="20" >这是一个多行输入框，输入您的个人描述</textarea>
+				<input type="submit" id="" name="" value="确认提交"/>
+			</form>
+		</div>
+	</body>	
+</html>
