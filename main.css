@@ -69,14 +69,14 @@ body{
 .content_top_left .mask_green{
 	left: 0;
 	bottom: 0;
-  	background-image: url(../img/blue_mask.png);
+  	background-image: url(img/blue_mask.png);
   	opacity: 0.502;
   	z-index: 53;
 }
 .content_top_left .mask_red{
 	right: 0;
 	bottom: 0;
-  	background-image: url(../img/red_mask.png);
+  	background-image: url(img/red_mask.png);
   	opacity: 0.502;
   	z-index: 53;
 }
@@ -235,7 +235,7 @@ body{
 .content_bottom_right_top>div{
 	width: 458px;
 	height: 61px;
-	background:url(../img/gray_mask.png);
+	background:url(img/gray_mask.png);
 	opacity: 0.4;
 	position: absolute;
 	bottom: 0;
